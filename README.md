@@ -1,14 +1,15 @@
--👋 Hi, I'm Ayaba Abendong, a dynamic and contemporary scientist with a background in hydrogeology, environmental engineering, and data analysis. I have a deep passion for data analytics, sustainability, and the environment. I am a serial problem solver with the bliss of tackling complex challenges head-on. I possess exceptional communication skills and I am more productive in a collaborative environment. 
+With a dynamic background in Cloud Engineering, DevOps and Data Analytics spanning over 3 years, I am a highly motivated professional committed to driving technical excellence and delivering scalable solutions. My expertise lies in designing, provisioning, and managing cloud infrastructures on AWS, with a focus on optimizing deployments and enhancing system reliability.
 
-My expertise spans from gathering and web scraping, manipulation, and visualization of data to deduce actionable insights as well as performing life cycle assessments for products to foster sustainability. In addition to my technical skills, I am well-equipped with knowledge of circular business models, government policies, stakeholder roles, and sustainable business changes.
+In my role as a Data and Cloud Solutions Architect, I have demonstrated proficiency in leveraging key Cloud services and tools such as Terraform, AWS Lambda, Ansible, Docker, and Jenkins to automate infrastructure provisioning, configuration management, and deployment processes. I specialize in building highly available and fault-tolerant architectures (most especially data architectures), ensuring seamless operation of mission-critical applications.
 
-Picture speaks louder than words is what I go by. With the advent of incredible analytics tools, more stories can be told out of data. therefore  strive to use state-of-the-art tools to let my analysis and visuals speak for themselves. 
+Furthermore, my experience in DevOps practices equips me with the skills necessary to streamline development workflows, improve collaboration between development and operations teams, and implement continuous integration and continuous deployment (CI/CD) pipelines. I have a solid understanding of cloud security, identity and access management, monitoring, and event management, enabling me to implement robust security measures and ensure compliance with industry standards.
 
-🧩 When you don't find me making sense of data, you can find me pursuing my hobbies in fashion design. puzzle-solving with Lego is what I equally love doing.
+I possess a strong aptitude for problem-solving and thrive in fast-paced environments, where I excel at identifying innovative solutions to complex technical challenges with an analytical eye. Additionally, my effective communication skills and collaborative approach enable me to work closely with cross-functional teams and stakeholders to achieve organizational objectives.
 
-📚Currently, I am sharpening and improving my skills in analytics in line with sustainability  and am eager to explore new opportunities to apply my talents.
-Feel free to reach out to me via email at sirayaben@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/abendong.
+Overall, being a Cloud enthusiast, I am eager to apply my skills and expertise to drive decision-making through data-driven storytelling in a sustainability-focused organization to forge forward an organization's mission for a more sustainable business landscape. I also am eager to continue expanding my skills and contributing to the success of future projects.
 
-Let's collaborate and solve problems together!
 
---->
+Other skills:
+- Good mastery of SQL and Python in modeling, wrangling, visualizing, and building predictive machine learning models leveraging Pandas, Matplotlib, Seaborn, and Scikit-Learn libraries for Data Analysis. my expertise in Tableau and Excel in creating dynamic dashboards and giving more granularity to data visualization is quite intriguing
+
+I am a native English speaker with a conversational (B1) l-level German proficiency
